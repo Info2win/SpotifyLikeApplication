@@ -1,4 +1,4 @@
-# Spotify-like-Application
+# Spotify Like Application
 
 ### Spotify-like program using queues utilizing linked list implementation. 
 ### All data is stored in linked lists containing nodes where each node stores the name of a person and the queue of their playlist. 
